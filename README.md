@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/philliplabar/Pipeline1/_apis/build/status/PhillipLaBar.Xamarin1?branchName=master)](https://dev.azure.com/philliplabar/Pipeline1/_build/latest?definitionId=2&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
